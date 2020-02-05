@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\새 폴더\운영체제\banker's_algorithm\banker's_algorithm\main.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  process.cpp
+d:\새 폴더\운영체제\banker's_algorithm\banker's_algorithm\process.cpp(5): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\새 폴더\운영체제\banker's_algorithm\banker's_algorithm\process.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\새 폴더\운영체제\banker's_algorithm\banker's_algorithm\process.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\새 폴더\운영체제\banker's_algorithm\banker's_algorithm\process.cpp(96): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\새 폴더\운영체제\banker's_algorithm\banker's_algorithm\process.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  Banker's_Algorithm.vcxproj -> D:\새 폴더\운영체제\Banker's_Algorithm\Debug\Banker's_Algorithm.exe
